@@ -1,4 +1,4 @@
-import ImageMain from '@/imageMain'
+import ImageMain from '@/svg/imageMain'
 import { Merriweather } from 'next/font/google'
 const merriweather = Merriweather({ subsets: ['latin'] , weight: ["400","700"]})
 
